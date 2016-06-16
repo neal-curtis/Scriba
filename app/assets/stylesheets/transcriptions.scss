@@ -1,4 +1,7 @@
 body { padding-top: 100px; }
 footer { margin-top: 100px; }
-table, td, th { vertical-align: middle; border: none; }
-th { border-bottom: 1px solid #DDD; }
+table, td, th { vertical-align: middle; padding: 15px;
+   border: none;
+ }
+th {
+  width: 100px; padding-right: 100px; border-bottom: 1px solid #DDD; }
